@@ -3,6 +3,8 @@
 #### In this repo, we share the code, data and results of the paper
 #### 
 #### 
+#### 
+#### 
 ### (1) To promote grouped sparsity:
 #### we propose and implement a randomized adaptive group Lasso with stability selection and error control
 #### 
@@ -14,4 +16,6 @@
 #### varying parameters, varying initial conditions and different chaotic regimes
 ###
 ###
+#### 
+#### 
 ### Requirements: conda and pip requirements are shared (see .txt files)
