@@ -7,7 +7,7 @@
 #### we propose and implement a randomized adaptive group Lasso with stability selection and error control
 #### 
 #### 
-### (2) Deep learning based model discovery
+### (2) Deep learning based model discovery:
 #### we implement it in DeepMod that we extend to handle multiple experiments
 ####
 ### (3) We share the code to reproduce the numerical experiments: 
