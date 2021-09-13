@@ -4,7 +4,7 @@
 #### 
 #### 
 #### (1) To promote grouped sparsity:
-#### we propose and implement a randomized adaptive group Lasso with stability selection
+#### we propose and implement a randomized adaptive group Lasso with stability selection and error control
 #### 
 #### 
 #### (2) Deep learning based model discovery
