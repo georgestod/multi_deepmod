@@ -13,4 +13,4 @@
 #### (3) We share the code to reproduce cases: varying parameters, varying initial conditions and different chaotic regimes
 ###
 ###
-### Requirements: conda and pip requirements are also shared
+### Requirements: conda and pip requirements are shared (see .txt files)
