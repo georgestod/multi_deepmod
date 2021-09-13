@@ -11,6 +11,7 @@
 #### 
 ### (2) Deep learning based model discovery:
 #### we implement the latter sparsity estimator in DeepMod (that we extend to handle multiple experiments)
+#### we leverage JAX to perform backward and forward autodiffs
 ####
 ### (3) We share the code to reproduce the numerical experiments: 
 #### varying parameters, varying initial conditions and different chaotic regimes
