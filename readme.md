@@ -1,6 +1,6 @@
 # Discovering PDEs from Multiple Experiments
 
-#### In this repo, we share the code, data and results of the paper (https://arxiv.org/abs/2106.11936)
+#### In this repo, we share the code, data and results of the paper (https://arxiv.org/abs/2109.11939)
 ###
 ### (1) To promote grouped sparsity:
 #### we propose and implement a randomized adaptive group Lasso with stability selection and error control
